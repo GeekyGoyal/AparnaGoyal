@@ -101,9 +101,9 @@ a:hover {
     bottom: 300px;
 }
 
-
 .pp {
     width: 25%;
+    margin-top: 100px;
 }
 
 .prgmr {
@@ -119,26 +119,26 @@ a:hover {
 }
 
 .btn {
-
     background:linear-gradient(to bottom, #11cdd4 5%, #11999E 100%);
-    background-color:##11cdd4;
-    border-radius:8px;
+    background-color: ##11cdd4;
+    border-radius: 8px;
     display:inline-block;
     cursor:pointer;
-    color:#ffffff;
+    color: #ffffff;
     font-family: 'Montserrat', sans-serif;
-    font-size:20px;
-    padding:11px 23px; 
-    text-decoration:none;
-    }
+    font-size: 20px;
+    padding: 11px 23px; 
+    text-decoration: none;
+}
     
-    .btn:hover {
+.btn:hover {
     background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
     background-color: #30e3cb;
-    }
+}
     
-    .btn:active {
+.btn:active {
     position:relative;
     top:1px;
-    }
+}
+
 
